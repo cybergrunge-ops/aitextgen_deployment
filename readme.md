@@ -1,8 +1,12 @@
 # aitextgen deployment
 
-this is a simple way to deploy aitextgen to a server using php shell exec apache
+this is a simple way to deploy aitextgen to a server using phpseclib ssh2 exec apache
+
 just install aitextgen on your server as per minimaxir repo
 then include the php files i made in ur apache directory
+enable php on apache, duh
+also make sure you have phpseclib, and SSH2 php extension
+works with all versions i tried whiich was.... a couple?
 
 aitextgen is made by minimaxir.
 
