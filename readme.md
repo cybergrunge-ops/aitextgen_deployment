@@ -2,6 +2,8 @@
 
 this is a simple way to deploy aitextgen to a server using php ssh2 execution
 
+![test](aitextgen.png)
+
 ## requirements
 
 VPS with apache, php and sudo
